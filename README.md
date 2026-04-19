@@ -2,6 +2,8 @@
 
 A Docker image for batch-downloading files from Rapidgator. Supports account login for share links and direct CDN URLs, with a TUI progress display.
 
+![Screenshot](https://i.imgur.com/uThb2Uz.jpeg)
+
 ## Quick Start
 
 Create a `links.txt` with one URL per line, then run:
